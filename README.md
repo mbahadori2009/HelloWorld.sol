@@ -4,3 +4,8 @@ pragma solidity ^0.8.20;
 contract HelloWorld {
     string public message = "Hello OPN!";
 }
+## About
+
+My first Solidity project.
+
+Learning smart contracts and Web3 development.
